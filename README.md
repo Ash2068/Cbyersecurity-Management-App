@@ -3,3 +3,8 @@ Welcome to the Cybersecurity Management App. I've developed this application to 
 
 Who it for?
 The Cybersecurity Management App is designed for both the company and its contractors, making it beneficial for a wide range of users involved in security management.
+
+# Key Technologies
+Build Status
+
+# Authors
